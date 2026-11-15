@@ -7,4 +7,4 @@
 - **Status:** draft / submitted / accepted / duplicate
 - **Ringkasan:**
 - **Bukti (PoC):**
-- **Perbaikan yang disarankan:
+- **Perbaikan yang disarankan:**
